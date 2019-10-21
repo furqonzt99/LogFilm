@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LogFilm</string>
+    <string name="genre">Genre</string>
+    <string name="tahun_rilis">Tahun Rilis</string>
+    <string name="durasi">Durasi</string>
+    <string name="sutradara">Sutradara</string>
+    <string name="golongan">Golongan</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="rating">Rating</string>
+</resources>
